@@ -1,0 +1,4 @@
+[submodule "durabletask"]
+	path = durabletask
+	url = https://github.com/Azure/durabletask.git
+	branch = vnext
