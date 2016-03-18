@@ -1,0 +1,14 @@
+D:\Dev\personal\CleanStack\CleanStack\bin\Release\CleanStack.exe.config
+D:\Dev\personal\CleanStack\CleanStack\bin\Release\CleanStack.exe
+D:\Dev\personal\CleanStack\CleanStack\bin\Release\CleanStack.pdb
+D:\Dev\personal\CleanStack\CleanStack\obj\Release\MainWindow.g.cs
+D:\Dev\personal\CleanStack\CleanStack\obj\Release\App.g.cs
+D:\Dev\personal\CleanStack\CleanStack\obj\Release\CleanStack_MarkupCompile.cache
+D:\Dev\personal\CleanStack\CleanStack\obj\Release\CleanStack_MarkupCompile.lref
+D:\Dev\personal\CleanStack\CleanStack\obj\Release\MainWindow.baml
+D:\Dev\personal\CleanStack\CleanStack\obj\Release\CleanStack.g.resources
+D:\Dev\personal\CleanStack\CleanStack\obj\Release\CleanStack.Properties.Resources.resources
+D:\Dev\personal\CleanStack\CleanStack\obj\Release\CleanStack.csproj.GenerateResource.Cache
+D:\Dev\personal\CleanStack\CleanStack\obj\Release\CleanStack.exe
+D:\Dev\personal\CleanStack\CleanStack\obj\Release\CleanStack.pdb
+D:\Dev\personal\CleanStack\CleanStack\obj\Release\CleanStack.csprojResolveAssemblyReference.cache

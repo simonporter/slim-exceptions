@@ -1,0 +1,17 @@
+D:\Dev\personal\CleanStack\CleanStack\bin\Debug\CleanStack.exe.config
+D:\Dev\personal\CleanStack\CleanStack\bin\Debug\CleanStack.exe
+D:\Dev\personal\CleanStack\CleanStack\bin\Debug\CleanStack.pdb
+D:\Dev\personal\CleanStack\CleanStack\obj\Debug\CleanStack.csprojResolveAssemblyReference.cache
+D:\Dev\personal\CleanStack\CleanStack\obj\Debug\MainWindow.g.cs
+D:\Dev\personal\CleanStack\CleanStack\obj\Debug\App.g.cs
+D:\Dev\personal\CleanStack\CleanStack\obj\Debug\CleanStack_MarkupCompile.cache
+D:\Dev\personal\CleanStack\CleanStack\obj\Debug\CleanStack_MarkupCompile.lref
+D:\Dev\personal\CleanStack\CleanStack\obj\Debug\MainWindow.baml
+D:\Dev\personal\CleanStack\CleanStack\obj\Debug\CleanStack.g.resources
+D:\Dev\personal\CleanStack\CleanStack\obj\Debug\CleanStack.Properties.Resources.resources
+D:\Dev\personal\CleanStack\CleanStack\obj\Debug\CleanStack.csproj.GenerateResource.Cache
+D:\Dev\personal\CleanStack\CleanStack\obj\Debug\CleanStack.exe
+D:\Dev\personal\CleanStack\CleanStack\obj\Debug\CleanStack.pdb
+D:\Github\simonporter\slim-exceptions\CleanStack\bin\Debug\CleanStack.exe.config
+D:\Github\simonporter\slim-exceptions\CleanStack\obj\Debug\CleanStack.exe
+D:\Github\simonporter\slim-exceptions\CleanStack\obj\Debug\CleanStack.pdb
